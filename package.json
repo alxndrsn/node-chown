@@ -1,0 +1,28 @@
+{
+  "name": "chown",
+  "version": "0.1.0",
+  "description": "chown stuff",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint src/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alxndrsn/node-chown.git"
+  },
+  "keywords": [
+    "chown"
+  ],
+  "author": "alxndrsn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxndrsn/node-chown/issues"
+  },
+  "homepage": "https://github.com/alxndrsn/node-chown#readme",
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  },
+  "dependencies": {
+    "uid-number": "0.0.6"
+  }
+}
