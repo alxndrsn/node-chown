@@ -1,6 +1,6 @@
 {
   "name": "chown",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "chown stuff",
   "main": "src/index.js",
   "scripts": {
